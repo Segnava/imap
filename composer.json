@@ -1,5 +1,5 @@
 {
-    "name": "segnava/imap",
+    "name": "ddeboer/imap",
     "description": "Object-oriented IMAP for PHP",
     "keywords": [
         "email",
